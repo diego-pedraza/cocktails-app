@@ -9,3 +9,5 @@
 "build": "CI= react-scripts build",
 
 ```
+### Link for deployed app:
+[Cocktails DB App](https://diego-cocktails-app.netlify.app/)
